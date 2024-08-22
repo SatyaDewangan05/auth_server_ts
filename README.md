@@ -1,5 +1,7 @@
 Here's a template for a `README.md` file that you can customize for your project:
 
+HOSTED IP: https://auth-server-ts.vercel.app/
+
 ---
 
 # Project Name
@@ -50,7 +52,7 @@ A brief description of your project, its purpose, and what it aims to achieve. F
 4. **Run the application**:
 
    ```bash
-   npm run dev
+   npm run start:dev
    ```
 
    This starts the server in development mode.
